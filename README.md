@@ -6,3 +6,4 @@
     Logo após o login o usúario será redirecionado direto para outra tela onde será capaz de escolher qual função quer que o site o direcione, entre as opções de serviços que o site oferece estão, o cadastro de itens, monitoramento de itens e a manutenção do item.
     Para poder ter esses serviços ele terá que por as informações, após o cadastro o usúario poderá visualizar de forma remota o trem, ver a sua posição, a rota que ele fará e os horários precisamente.
     O site tambem tem um sistema de ajuda onde o usúario poderá relatar o problema que está ocorrendo com ele ou clicar em um dos pré escritos que mais se pareça com oque está ocorrendo.
+    
