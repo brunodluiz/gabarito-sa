@@ -6,3 +6,4 @@
     Logo após o login o usúario será redirecionado direto para outra tela onde poderá esolher qual função quer que o site o direcione, entre as opções de serviços que o site oferece estão, o cadastro de itens, monitoramento de itens e a manutenção do item.
     Se o usúario escolher o cadastro de itens ele será mandado para outra página onde terá que por as informaões do item que quer cadastrar
     
+    
