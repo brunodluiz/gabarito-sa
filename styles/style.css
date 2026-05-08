@@ -1,0 +1,72 @@
+body {
+    background: linear-gradient(135deg, #4f46e5, #7c3aed);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+    border: none;
+    border-radius: 20px;
+    overflow: hidden;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.95);
+    transition: 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+}
+
+.card-body {
+    padding: 40px;
+}
+
+h2 {
+    font-weight: bold;
+    color: #4f46e5;
+}
+
+.form-label {
+    font-weight: 600;
+    color: #444;
+}
+
+.form-control {
+    border-radius: 12px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    transition: 0.3s;
+}
+
+.form-control:focus {
+    border-color: #7c3aed;
+    box-shadow: 0 0 10px rgba(124, 58, 237, 0.3);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #4f46e5, #7c3aed);
+    border: none;
+    border-radius: 12px;
+    padding: 12px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #4338ca, #6d28d9);
+    transform: scale(1.02);
+}
+
+a {
+    color: #7c3aed;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #4f46e5;
+    text-decoration: underline;
+}
